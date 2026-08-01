@@ -5,7 +5,7 @@
 What I'm Building
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Car Rental Management System** | `SQL` `RDBMS` | Full database architecture with normalized schemas & constraints. |
+| **Sentinel IoT** | `CyberSecurity` `IoT` | AI Based Iot Honeypot designed to enhance security in IoT networks. |
 | **IntelliQuiz** | `LLMs` `Full Stack` | AI-driven quiz generation platform using modern web tech. |
 
 ---
