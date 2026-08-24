@@ -6,7 +6,7 @@ What I'm Building
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Sentinel IoT** | `CyberSecurity` `IoT` | AI Based Iot Honeypot designed to enhance security in IoT networks. |
-| **IntelliQuiz** | `LLMs` `Full Stack` | AI-driven quiz generation platform using modern web tech. |
+| **RhinoPlasty XAI Evaluator** | `AI` `Full Stack` `Data Vision` | AI-driven quiz generation platform using modern web tech. |
 
 ---
 
