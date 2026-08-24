@@ -6,7 +6,7 @@ What I'm Building
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Sentinel IoT** | `CyberSecurity` `IoT` | AI Based Iot Honeypot designed to enhance security in IoT networks. |
-| **RhinoPlasty XAI Evaluator** | `AI` `Full Stack` `Data Vision` | AI-driven quiz generation platform using modern web tech. |
+| **RhinoPlasty XAI Evaluator** | `AI` `Full Stack` `Data Vision` | Accessible, and explainable AI (XAI) evaluation pipeline for aesthetic surgery. |
 
 ---
 
